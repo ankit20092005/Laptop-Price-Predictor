@@ -1,0 +1,34 @@
+# Node
+node_modules
+npm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+logs
+*.log
+
+# Build
+dist
+build
+
+# Vite
+.vite
+
+# Python
+ml-service/venv/
+ml-service/__pycache__/
+*.pyc
+
+# Model Files (optional if you don't want to upload them)
+# ml-service/model/model.pkl
+# ml-service/model/preprocessor.pkl
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
