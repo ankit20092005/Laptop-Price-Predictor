@@ -22,9 +22,9 @@ ml-service/venv/
 ml-service/__pycache__/
 *.pyc
 
-# Model Files (optional if you don't want to upload them)
-# ml-service/model/model.pkl
-# ml-service/model/preprocessor.pkl
+# Model Files 
+ml-service/model/model.pkl
+ml-service/model/preprocessor.pkl
 
 # VS Code
 .vscode/
